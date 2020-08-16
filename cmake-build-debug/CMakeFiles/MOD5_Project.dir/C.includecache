@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beitske/Documents/Universiteit Twente/Module 5/Project/MOD5_Project/proofofconcept/movingdraw.c
+GL/glut.h
+-
+string.h
+-
+math.h
+-
+stdbool.h
+-
+stdio.h
+-
+

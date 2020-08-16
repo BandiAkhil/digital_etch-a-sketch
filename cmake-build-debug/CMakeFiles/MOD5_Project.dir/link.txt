@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/MOD5_Project.dir/proofofconcept/fpgasimul.c.o CMakeFiles/MOD5_Project.dir/proofofconcept/fpgasimulPIGPIO.c.o CMakeFiles/MOD5_Project.dir/proofofconcept/movingdraw.c.o CMakeFiles/MOD5_Project.dir/proofofconcept/readallgpio.c.o  -o MOD5_Project 
